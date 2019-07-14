@@ -31,7 +31,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 /**
  * description:
- *
+ * 切面，拦截缓存注解
  * @author wangzx
  * @version v1.0
  * @date 2018/11/22 9:14
